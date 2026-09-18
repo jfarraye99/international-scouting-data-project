@@ -618,6 +618,7 @@ select,button{{width:100%;padding:10px;border:1px solid #b9c5d2;border-radius:5p
 table{{width:100%;border-collapse:collapse;margin-top:14px;font-size:14px}} th,td{{padding:10px;border-bottom:1px solid var(--line);text-align:left}} th{{background:var(--sky);color:var(--navy)}}
 .bar{{height:8px;background:#e7edf4;border-radius:6px;overflow:hidden;min-width:100px}} .bar span{{display:block;height:100%;background:var(--blue)}}
 .small{{font-size:12px;color:var(--muted)}} h2{{color:var(--navy);font-size:19px;margin:0 0 12px}} .section{{margin-top:18px}}
+.definition{{line-height:1.55;margin:0 0 14px}} details{{margin:0 0 16px;padding:10px 12px;background:#f7f9fc;border:1px solid var(--line);border-radius:5px}} summary{{font-weight:700;color:var(--navy);cursor:pointer}} details p{{margin:8px 0 0;line-height:1.5}}
 @media(max-width:760px){{.grid{{grid-template-columns:1fr 1fr}}.controls{{grid-template-columns:1fr}}}}
 </style>
 </head>
@@ -627,14 +628,16 @@ table{{width:100%;border-collapse:collapse;margin-top:14px;font-size:14px}} th,t
 <div class="notice"><strong>About the data:</strong> Every player record and outcome is simulated. The workflow is functional and reproducible; the player rankings are only illustrative.</div>
 <div class="grid" id="metrics"></div>
 <div class="card">
-  <h2>Archetype Track Record</h2>
+  <h2>Historical Outcome Comparison</h2>
+  <p class="definition">A <strong>top-quartile next-season result</strong> means that a player's following-season composite performance index ranked in the top 25% among players of the same role and comparison season. The displayed rate is the share of eligible player-seasons within each group that reached that threshold. These results are descriptive, based entirely on simulated data, and should not be interpreted as probabilities of signing success, advancement, or MLB contribution.</p>
+  <details><summary>How performance is measured</summary><p><strong>Pitchers:</strong> strikeout rate, walk rate, average fastball velocity, zone rate, and biomechanics score. <strong>Position players:</strong> contact rate, isolated power, chase rate, sprint speed, and biomechanics score. Each input is standardized within role and season before the weighted composite is calculated.</p></details>
   <div class="controls">
     <div><label for="dimension">Explore by</label><select id="dimension"></select></div>
     <div><label for="segment">Segment</label><select id="segment"></select></div>
     <div><button id="reset">Reset filters</button></div>
   </div>
-  <table><thead><tr><th>Dimension</th><th>Segment</th><th>Sample</th><th>Positive outcomes</th><th>Rate</th><th>95% interval</th></tr></thead><tbody id="rows"></tbody></table>
-  <p class="small">A positive outcome is defined as next-season performance in the top quartile within role and season. Confidence intervals use the Wilson method; segments under eight observations are suppressed.</p>
+  <table><thead><tr><th>Dimension</th><th>Segment</th><th>Eligible player-seasons</th><th>Top-quartile next seasons</th><th>Top-quartile rate</th><th>95% uncertainty interval</th></tr></thead><tbody id="rows"></tbody></table>
+  <p class="small">Only player-seasons with a consecutive following season are eligible. Wilson intervals communicate uncertainty, and groups with fewer than eight observations are suppressed. The rate is descriptive and is not model accuracy.</p>
 </div>
 <div class="card section"><h2>Data Quality Queue</h2><table><thead><tr><th>Severity</th><th>Rule</th><th>Flagged rows</th></tr></thead><tbody id="issues"></tbody></table></div>
 </main>

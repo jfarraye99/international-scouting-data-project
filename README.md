@@ -20,6 +20,14 @@ I defined the baseball problem, data structure, matching priorities, validation 
 - A transparent time-based Ridge model used only to test the workflow.
 - A dependency-free HTML explorer that non-technical users can open locally.
 
+## How the outcome measure works
+
+A **top-quartile next-season result** means that a player's following-season composite performance index ranked in the top 25% among players of the same role and comparison season. Only player-seasons with a consecutive following season are eligible.
+
+For pitchers, the composite uses strikeout rate, walk rate, average fastball velocity, zone rate, and biomechanics score. For position players, it uses contact rate, isolated power, chase rate, sprint speed, and biomechanics score. Inputs are standardized within role and season before the weighted composite is calculated.
+
+The rate shown for a country, league, position group, age band, or bonus tier is the number of eligible observations reaching that threshold divided by all eligible observations in that group. It is a retrospective comparison of simulated player groups, not model accuracy or a predicted probability of signing success, advancement, or MLB contribution.
+
 ## Run the project
 
 From the project folder:
@@ -38,7 +46,6 @@ Required packages are listed in `requirements.txt`. The pipeline uses a fixed ra
 - `data/processed/data_quality_issues.csv` - row-level exception queue.
 - `data/processed/archetype_outcomes.csv` - grouped track records with uncertainty.
 - `data/processed/model_scores.csv` - illustrative next-season projections.
-- `Jeremy_Farraye_International_Scouting_Project_Brief.pdf` - executive-facing summary.
 - `DECISION_LOG.md` - the reasoning behind the major design choices.
 
 ## What I would do next with real data
