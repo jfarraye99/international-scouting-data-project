@@ -611,7 +611,7 @@ def render_explorer(paths: Paths, archetypes: pd.DataFrame, issues: pd.DataFrame
 *{{box-sizing:border-box}} body{{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--ink);background:#f5f7fa}}
 header{{background:var(--navy);color:white;padding:28px 5vw 24px}} header h1{{margin:0 0 8px;font-size:28px}} header p{{margin:0;max-width:920px;line-height:1.45;color:#dbe8f7}}
 main{{max-width:1180px;margin:0 auto;padding:24px}} .notice{{background:#fff8e6;border-left:4px solid #d9a400;padding:12px 16px;margin-bottom:18px}}
-.grid{{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:18px}} .card{{background:white;border:1px solid var(--line);border-radius:8px;padding:16px}}
+.grid{{display:grid;grid-template-columns:repeat(auto-fit,minmax(155px,1fr));gap:14px;margin-bottom:18px}} .card{{background:white;border:1px solid var(--line);border-radius:8px;padding:16px}}
 .metric{{font-size:28px;font-weight:700;color:var(--navy)}} .label{{color:var(--muted);font-size:13px;margin-top:4px}}
 .controls{{display:grid;grid-template-columns:1fr 1fr auto;gap:12px;align-items:end}} label{{font-size:12px;color:var(--muted);display:block;margin-bottom:5px}}
 select,button{{width:100%;padding:10px;border:1px solid #b9c5d2;border-radius:5px;background:white}} button{{background:var(--blue);color:white;border:0;font-weight:700;cursor:pointer}}
@@ -619,7 +619,10 @@ table{{width:100%;border-collapse:collapse;margin-top:14px;font-size:14px}} th,t
 .bar{{height:8px;background:#e7edf4;border-radius:6px;overflow:hidden;min-width:100px}} .bar span{{display:block;height:100%;background:var(--blue)}}
 .small{{font-size:12px;color:var(--muted)}} h2{{color:var(--navy);font-size:19px;margin:0 0 12px}} .section{{margin-top:18px}}
 .definition{{line-height:1.55;margin:0 0 14px}} details{{margin:0 0 16px;padding:10px 12px;background:#f7f9fc;border:1px solid var(--line);border-radius:5px}} summary{{font-weight:700;color:var(--navy);cursor:pointer}} details p{{margin:8px 0 0;line-height:1.5}}
+.guide{{margin-bottom:18px}} .guide p{{line-height:1.5}} .steps{{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}} .step{{padding:12px;background:#f7f9fc;border:1px solid var(--line);border-radius:5px;line-height:1.45}} .step strong{{display:block;color:var(--navy);margin-bottom:4px}}
+.interpretation{{margin-top:14px;padding:12px 14px;background:var(--sky);border-left:4px solid var(--blue);line-height:1.5}}
 @media(max-width:760px){{.grid{{grid-template-columns:1fr 1fr}}.controls{{grid-template-columns:1fr}}}}
+@media(max-width:900px){{.steps{{grid-template-columns:1fr 1fr}}}} @media(max-width:520px){{.steps{{grid-template-columns:1fr}}}}
 </style>
 </head>
 <body>
@@ -627,6 +630,16 @@ table{{width:100%;border-collapse:collapse;margin-top:14px;font-size:14px}} th,t
 <main>
 <div class="notice"><strong>About the data:</strong> Every player record and outcome is simulated. The workflow is functional and reproducible; the player rankings are only illustrative.</div>
 <div class="grid" id="metrics"></div>
+<div class="card guide">
+  <h2>How a Baseball Staff Could Use This Tool</h2>
+  <p>This prototype is designed to help a staff decide <strong>where deeper scouting, verification, or analysis is warranted</strong>. It organizes the evidence and makes uncertainty visible; it does not replace individual evaluation or make a signing decision.</p>
+  <div class="steps">
+    <div class="step"><strong>1. Check the data</strong>Review the quality queue and resolve material errors before relying on a comparison.</div>
+    <div class="step"><strong>2. Ask one question</strong>Choose a country, league, position, age band, or bonus tier to examine.</div>
+    <div class="step"><strong>3. Judge the evidence</strong>Read the sample, observed rate, and uncertainty interval together.</div>
+    <div class="step"><strong>4. Choose a follow-up</strong>Use the result to prioritize additional scouting, video, medical, or analytical review.</div>
+  </div>
+</div>
 <div class="card">
   <h2>Historical Outcome Comparison</h2>
   <p class="definition">A <strong>top-quartile next-season result</strong> means that a player's following-season composite performance index ranked in the top 25% among players of the same role and comparison season. The displayed rate is the share of eligible player-seasons within each group that reached that threshold. These results are descriptive, based entirely on simulated data, and should not be interpreted as probabilities of signing success, advancement, or MLB contribution.</p>
@@ -636,10 +649,11 @@ table{{width:100%;border-collapse:collapse;margin-top:14px;font-size:14px}} th,t
     <div><label for="segment">Segment</label><select id="segment"></select></div>
     <div><button id="reset">Reset filters</button></div>
   </div>
+  <div class="interpretation" id="interpretation">Choose a specific segment to generate a plain-language interpretation.</div>
   <table><thead><tr><th>Dimension</th><th>Segment</th><th>Eligible player-seasons</th><th>Top-quartile next seasons</th><th>Top-quartile rate</th><th>95% uncertainty interval</th></tr></thead><tbody id="rows"></tbody></table>
   <p class="small">Only player-seasons with a consecutive following season are eligible. Wilson intervals communicate uncertainty, and groups with fewer than eight observations are suppressed. The rate is descriptive and is not model accuracy.</p>
 </div>
-<div class="card section"><h2>Data Quality Queue</h2><table><thead><tr><th>Severity</th><th>Rule</th><th>Flagged rows</th></tr></thead><tbody id="issues"></tbody></table></div>
+<div class="card section"><h2>Data Quality Review Queue</h2><p class="definition">This queue shows records that were missing, duplicated, unmatched, or outside an accepted range. Errors are excluded from the curated analysis; warnings remain visible for review. In production, each exception would also have an owner, status, resolution, and audit history.</p><table><thead><tr><th>Severity</th><th>Rule</th><th>Flagged rows</th></tr></thead><tbody id="issues"></tbody></table></div>
 </main>
 <script>
 const data={payload}; const quality={issue_payload}; const summary={summary_payload};
@@ -649,9 +663,9 @@ function option(v,t){{const o=document.createElement('option');o.value=v;o.textC
 function fillDimensions(){{dim.innerHTML='';dim.appendChild(option('all','All dimensions'));[...new Set(data.map(d=>d.dimension))].forEach(d=>dim.appendChild(option(d,labels[d]||d)));}}
 function fillSegments(){{seg.innerHTML='';seg.appendChild(option('all','All segments'));const rows=dim.value==='all'?data:data.filter(d=>d.dimension===dim.value);[...new Set(rows.map(d=>d.segment))].sort().forEach(s=>seg.appendChild(option(s,s)));}}
 function pct(v){{return (100*v).toFixed(1)+'%'}}
-function render(){{let rows=data;if(dim.value!=='all')rows=rows.filter(d=>d.dimension===dim.value);if(seg.value!=='all')rows=rows.filter(d=>d.segment===seg.value);rows=[...rows].sort((a,b)=>b.outcome_rate-a.outcome_rate);tbody.innerHTML=rows.map(r=>`<tr><td>${{labels[r.dimension]||r.dimension}}</td><td><strong>${{r.segment}}</strong></td><td>${{r.n}}</td><td>${{r.positive_outcomes}}</td><td>${{pct(r.outcome_rate)}}<div class="bar"><span style="width:${{100*r.outcome_rate}}%"></span></div></td><td>${{pct(r.ci_low)}}-${{pct(r.ci_high)}}</td></tr>`).join('');}}
+function render(){{let rows=data;if(dim.value!=='all')rows=rows.filter(d=>d.dimension===dim.value);if(seg.value!=='all')rows=rows.filter(d=>d.segment===seg.value);rows=[...rows].sort((a,b)=>b.outcome_rate-a.outcome_rate);tbody.innerHTML=rows.map(r=>`<tr><td>${{labels[r.dimension]||r.dimension}}</td><td><strong>${{r.segment}}</strong></td><td>${{r.n}}</td><td>${{r.positive_outcomes}}</td><td>${{pct(r.outcome_rate)}}<div class="bar"><span style="width:${{100*r.outcome_rate}}%"></span></div></td><td>${{pct(r.ci_low)}}-${{pct(r.ci_high)}}</td></tr>`).join('');const box=document.getElementById('interpretation');if(seg.value!=='all'&&rows.length===1){{const r=rows[0],base=summary.overall_outcome_rate,direction=r.outcome_rate>base?'above':r.outcome_rate<base?'below':'equal to';const evidence=r.n<20?'an exploratory signal because the sample is small':r.n<50?'directional evidence that still warrants additional validation':'a more stable descriptive comparison, though it is not causal';box.innerHTML=`<strong>${{r.segment}}:</strong> ${{r.positive_outcomes}} of ${{r.n}} eligible player-seasons (${{pct(r.outcome_rate)}}) produced a top-quartile next season. That is ${{direction}} the ${{pct(base)}} overall synthetic baseline. The 95% uncertainty interval is ${{pct(r.ci_low)}}-${{pct(r.ci_high)}}. Treat this as ${{evidence}}. Appropriate next step: review the underlying players and add scouting, video, medical, competition-level, and acquisition-cost context before acting.`;}}else{{box.textContent=`Choose a specific segment to compare its result with the ${{pct(summary.overall_outcome_rate)}} overall synthetic baseline and receive an interpretation.`;}}}}
 fillDimensions();fillSegments();render();dim.onchange=()=>{{fillSegments();render()}};seg.onchange=render;document.getElementById('reset').onclick=()=>{{dim.value='all';fillSegments();render()}};
-document.getElementById('metrics').innerHTML=[['Players',summary.players],['Source rows',summary.source_rows],['Flagged issues',summary.issues],['Validated match rate',pct(summary.match_rate)]].map(x=>`<div class="card"><div class="metric">${{x[1]}}</div><div class="label">${{x[0]}}</div></div>`).join('');
+document.getElementById('metrics').innerHTML=[['Players',summary.players],['Source rows',summary.source_rows],['Eligible player-seasons',summary.eligible_player_seasons],['Flagged issues',summary.issues],['Validated match rate',pct(summary.match_rate)],['Overall top-quartile rate',pct(summary.overall_outcome_rate)]].map(x=>`<div class="card"><div class="metric">${{x[1]}}</div><div class="label">${{x[0]}}</div></div>`).join('');
 document.getElementById('issues').innerHTML=quality.map(q=>`<tr><td>${{q.severity}}</td><td>${{q.rule.replaceAll('_',' ')}}</td><td>${{q.count}}</td></tr>`).join('');
 </script>
 </body></html>"""
@@ -680,6 +694,8 @@ def main() -> None:
         "source_rows": int(raw_rows),
         "issues": int(len(issues)),
         "match_rate": float((total_matchable - unmatched_rows) / total_matchable),
+        "eligible_player_seasons": int(perf["positive_outcome"].notna().sum()),
+        "overall_outcome_rate": float(perf["positive_outcome"].dropna().mean()),
         **model_metrics,
     }
     (PROCESSED / "summary.json").write_text(json.dumps(summary, indent=2), encoding="utf-8")

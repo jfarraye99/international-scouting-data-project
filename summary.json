@@ -3,6 +3,8 @@
   "source_rows": 2052,
   "issues": 85,
   "match_rate": 0.9688041594454073,
+  "eligible_player_seasons": 746,
+  "overall_outcome_rate": 0.2546916890080429,
   "test_rows": 282.0,
   "model_mae": 0.3159364185930426,
   "baseline_mae": 0.4428806140297578

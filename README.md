@@ -8,6 +8,18 @@ All player names, records, metrics, bonuses, and outcomes in this repository are
 
 I defined the baseball problem, data structure, matching priorities, validation rules, and intended outputs. I used AI coding tools to help implement the prototype, then reviewed the workflow, ran the tests, and documented the limitations. The code is reproducible, but the baseball conclusions are only illustrations because the source data are simulated.
 
+## How a baseball staff could use it
+
+This prototype is designed to help a staff decide **where deeper scouting, verification, or analysis is warranted**. It organizes evidence and makes uncertainty visible; it does not replace individual evaluation or make a signing decision.
+
+1. **Check the data.** Review the quality queue and resolve material errors before relying on a comparison.
+2. **Ask one question.** Choose a country, league, position group, age band, or bonus tier to examine.
+3. **Judge the evidence.** Read the eligible sample, observed rate, and uncertainty interval together. Compare the segment with the overall synthetic baseline rather than relying on the rate alone.
+4. **Choose a follow-up.** Use the result to prioritize additional scouting, video, medical, competition-level, or analytical review.
+5. **Add player context.** Evaluate the individual player's tools, development environment, acquisition cost, risk, and organizational fit before acting.
+
+The appropriate conclusion is not "sign this type of player." It is "this pattern may deserve closer review, and here is the additional evidence needed before making a decision."
+
 ## What I built
 
 - Ingestion of three intentionally inconsistent source extracts: scouting reports, performance metrics, and signing records.
