@@ -1,0 +1,637 @@
+report_id,source_player_id,player_name,birth_date,country,position,report_date,overall_future_value,athleticism_grade,makeup_grade,risk_grade,scout_region,notes
+SR-00001,INT-0001,Andres Kim,1999-09-06,VEN,OF,2024-05-27,35,50,45,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00002,INT-0001,Andres Kim,1999-09-06,VZ,OF,2025-04-21,30,50,45,Low,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00003,INT-0001,Andres Kim,1999-09-06,Venezuela,OF,2023-06-21,30,40,50,Low,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00004,INT-0002,Ji-ho Sato,2003-03-03,Cuba,C,2025-06-09,95,40,50,Low,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00005,INT-0002,Ji-ho Sato,2003-03-03,Cuba,C,2025-10-10,35,50,50,Low,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00006,INT-0003,Haruto Kim,2003-01-15,Dominican Republic,C,2025-12-08,45,45,50,High,Mexico,Advanced feel for age with present execution and development upside.
+SR-00007,INT-0003,Haruto Kim,2003-01-15,Dominican Republic,C,2025-10-10,45,45,60,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00008,INT-0003,Haruto Kim,2003-01-15,Dominican Republic,C,2025-07-14,45,35,55,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00009,INT-0004,Luis Estrada,2004-09-26,Venezuela,RHP,2023-02-27,45,55,45,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00010,INT-0004,Luis Estrada,2004-09-26,Venezuela,RHP,2024-06-22,40,50,45,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00011,INT-0005,Seong-hyun Garcia,,Dominican Republic,OF,2024-02-03,40,45,45,High,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00012,INT-0005,Seong-hyun Garcia,2006-08-13,Dominican Republic,OF,2023-11-03,35,40,40,Low,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00013,INT-0005,Seong-hyun Garcia,2006-08-13,Dominican Republic,OF,2024-11-18,40,50,35,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00014,INT-0006,Yun-seo Vargas,2004-07-03,South Korea,IF,2024-11-27,50,50,55,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00015,INT-0006,Yun-seo Vargas,2004-07-03,South Korea,IF,2025-03-04,50,45,45,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00016,INT-0007,Seong-hyun Benitez,2002-08-04,Dominican Rep.,LHP,2025-01-14,45,50,50,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00017,INT-0008,Carlos Castillo,2005-02-25,Japan,C,2023-01-06,45,50,55,Low,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00018,,Carlos Castillo,2005-02-25,Japan,C,2025-01-27,45,50,50,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00019,INT-0009,Omar Castillo,2002-11-14,Dominican Republic,OF,2023-12-05,40,50,50,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00020,,Omar Castillo,2002-11-14,Dominican Republic,OF,2025-02-16,40,40,60,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00021,INT-0009,Omar Castillo,2002-11-14,Dominican Republic,OF,2023-05-18,40,40,50,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00022,,Luis Han,2005-04-22,Venezuela,RHP,2025-08-08,35,60,40,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00023,INT-0011,Carlos Sato,2006-01-05,Dominican Republic,C,2023-02-27,55,60,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00024,INT-0012,Luis Navarro,2000-12-12,Mexico,RHP,2024-08-20,50,70,50,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00025,,Ji-ho Jimenez,2006-06-08,Venezuela,IF,2025-01-12,50,45,45,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00026,INT-0014,Esteban Tanaka,2001-02-17,JPN,IF,2023-09-15,40,45,35,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00027,INT-0015,Emilio Rojas,2007-04-27,Dominican Republic,C,2023-05-23,45,40,45,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00028,INT-0016,Esteban Han,1999-10-10,Mexico,LHP,2024-08-02,50,55,50,High,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00029,INT-0016,Esteban Han,1999-10-10,Mexico,LHP,2024-08-05,45,55,55,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00030,INT-0017,Alejandro Dominguez,2005-03-10,Cuba,RHP,2023-05-10,40,55,50,Low,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00031,,Alejandro Dominguez,2005-03-10,CUB,RHP,2025-11-15,35,50,55,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00032,INT-0017,Alejandro Dominguez,2005-03-10,Cuba,RHP,2025-05-18,40,50,50,Low,Mexico,Advanced feel for age with present execution and development upside.
+SR-00033,INT-0018,Diego Herrera,2007-02-09,Dominican Republic,IF,2023-08-26,45,35,40,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00034,INT-0018,Diego Herrera,2007-02-09,DOM,IF,2024-07-26,40,40,40,Low,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00035,INT-0019,Jorge Dominguez,2007-04-04,Colombia,LHP,2023-05-16,45,50,65,High,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00036,,Jorge Dominguez,2007-04-04,Colombia,LHP,2025-02-27,45,45,55,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00037,INT-0020,Daniel Sato,2005-06-01,Dominican Republic,RHP,2025-01-25,55,50,45,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00038,INT-0020,daniel sato,2005-06-01,Dominican Republic,RHP,2023-11-14,50,45,45,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00039,INT-0021,Gabriel Park,2002-07-21,South Korea,RHP,2024-07-25,30,50,45,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00040,INT-0021,Gabriel Park,2002-07-21,South Korea,RHP,2024-11-04,40,55,40,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00041,INT-0022,Ruben Nakamura,2006-01-13,Cuba,RHP,2025-09-18,45,45,55,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00042,INT-0023,Rafael Estrada,2005-01-06,Dominican Rep.,RHP,2025-07-16,40,55,45,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00043,INT-0023,Rafael Estrada,2005-01-06,Dominican Republic,RHP,2025-07-14,40,55,45,High,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00044,INT-0023,Rafael Estrada,2005-01-06,Dominican Republic,RHP,2023-05-08,40,50,45,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00045,INT-0024,ji-ho choi,2007-03-07,Dominican Republic,RHP,2024-07-22,45,40,50,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00046,,Ji-ho Choi,2007-03-07,D.R.,RHP,2025-11-27,55,35,45,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00047,INT-0024,Ji-ho Choi,2007-03-07,Dominican Republic,RHP,2025-06-19,50,40,50,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00048,INT-0025,ren dominguez,2001-12-09,Cuba,OF,2023-06-15,45,40,50,Low,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00049,INT-0026,Seong-hyun Ramirez,2001-04-02,Venezuela,IF,2023-07-03,30,60,40,High,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00050,INT-0026,seong-hyun ramirez,2001-04-02,Venezuela,IF,2023-02-27,35,65,50,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00051,INT-0026,Seong-hyun Ramirez,2001-04-02,Venezuela,IF,2025-01-21,30,55,50,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00052,INT-0027,Diego Tanaka,2005-11-24,Dominican Republic,OF,2023-05-20,60,65,55,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00053,,Andres Lopez,2004-09-14,Japan,RHP,2023-02-15,45,50,50,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00054,INT-0028,Andres Lopez,2004-09-14,Japan,RHP,2024-02-10,40,60,50,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00055,INT-0029,Omar Rojas,2003-10-27,South Korea,IF,2023-03-14,35,40,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00056,INT-0030,Adrian Vargas,2005-10-25,Venezuela,IF,2023-03-13,65,35,40,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00057,INT-0030,Adrian Vargas,2005-10-25,Venezuela,IF,2023-04-25,50,50,35,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00058,INT-0030,Adrian Vargas,2005-10-25,Venezuela,IF,2023-11-07,50,40,45,Low,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00059,INT-0031,Kaito Perez,2005-05-20,South Korea,IF,2024-07-19,40,45,50,High,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00060,INT-0031,Kaito Perez,2005-05-20,South Korea,IF,2025-02-04,45,50,50,Low,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00061,INT-0032,Nicolas Ramirez,2000-07-26,Venezuela,IF,2024-02-22,50,50,55,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00062,INT-0032,Nicolas Ramirez,2000-07-26,Venezuela,IF,2024-09-01,45,45,60,High,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00063,INT-0032,Nicolas Ramirez,2000-07-26,VEN,IF,2023-12-16,40,40,50,High,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00064,INT-0033,Felix Choi,2003-08-01,Mexico,RHP,2023-08-04,40,35,50,Low,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00065,INT-0033,felix choi,2003-08-01,Mexico,RHP,2023-05-21,40,30,60,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00066,INT-0033,Felix Choi,2003-08-01,Mexico,RHP,2025-10-04,45,30,55,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00067,INT-0034,mateo quintero,2002-12-02,South Korea,RHP,2023-10-07,40,55,50,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00068,INT-0035,Esteban Herrera,2006-03-01,Dominican Republic,OF,2025-05-10,45,45,45,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00069,INT-0035,Esteban Herrera,2006-03-01,D.R.,OF,2023-06-25,45,50,35,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00070,INT-0035,Esteban Herrera,2006-03-01,Dominican Republic,OF,2023-07-07,40,55,40,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00071,INT-0036,Gabriel Choi,2007-12-04,Dominican Republic,OF,2024-01-06,45,45,55,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00072,INT-0036,gabriel choi,2007-12-04,Dominican Republic,OF,2024-09-10,50,55,45,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00073,INT-0036,Gabriel Choi,2007-12-04,D.R.,OF,2025-03-26,50,40,60,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00074,INT-0037,Seong-hyun Nakamura,1999-09-15,Dominican Republic,LHP,2024-11-24,35,40,45,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00075,INT-0038,Jorge Fernandez,2002-12-16,DOM,RHP,2025-11-18,45,45,60,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00076,INT-0039,Nicolas Yamamoto,2000-02-13,Japan,OF,2023-12-01,45,65,50,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00077,INT-0039,Nicolas Yamamoto,2000-02-13,Japan,OF,2023-09-14,50,60,50,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00078,,Ji-ho Mori,2000-05-23,Mexico,C,2024-09-12,20,50,45,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00079,,Ji-ho Mori,2000-05-23,MEX,C,2023-08-06,30,50,40,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00080,INT-0041,Isaac Vargas,2004-08-17,Japan,IF,2024-03-08,40,40,50,High,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00081,INT-0041,Isaac Vargas,2004-08-17,Japan,IF,2025-05-21,35,40,55,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00082,,Nicolas Han,2005-07-08,Colombia,C,2023-10-21,45,55,40,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00083,INT-0042,Nicolas Han,2005-07-08,Colombia,C,2024-05-11,45,45,50,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00084,INT-0042,Nicolas Han,2005-07-08,Colombia,C,2023-01-01,40,45,50,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00085,INT-0043,Marco Fernandez,2007-01-12,Venezuela,IF,2023-01-22,30,60,45,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00086,INT-0043,Marco Fernandez,2007-01-12,Venezuela,IF,2025-06-07,30,45,60,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00087,,Marco Fernandez,2007-01-12,Venezuela,IF,2025-01-22,30,60,60,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00088,INT-0044,Andres Mendez,2005-09-04,South Korea,LHP,2024-07-01,45,45,55,Low,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00089,INT-0044,Andres Mendez,2005-09-04,South Korea,LHP,2024-03-04,40,45,50,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00090,INT-0045,Ren Fernandez,2007-07-06,CUB,OF,2023-02-08,55,55,50,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00091,INT-0045,Ren Fernandez,2007-07-06,Cuba,OF,2025-04-01,55,60,50,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00092,INT-0045,Ren Fernandez,2007-07-06,Cuba,OF,2025-10-27,50,50,40,Low,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00093,INT-0046,Marco Sanchez,2001-11-26,D.R.,RHP,2024-02-08,30,50,45,Low,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00094,INT-0046,Marco Sanchez,2001-11-26,Dominican Republic,RHP,2025-10-05,35,45,60,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00095,INT-0046,Marco Sanchez,2001-11-26,D.R.,RHP,2025-11-01,35,45,55,Low,Mexico,Advanced feel for age with present execution and development upside.
+SR-00096,INT-0047,Seong-hyun Park,2002-09-22,Mexico,IF,2025-11-24,50,50,50,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00097,,Seong-hyun Park,2002-09-22,Mexico,IF,2023-01-19,50,55,35,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00098,INT-0048,Ren Choi,2001-08-04,Venezuela,OF,2024-09-01,35,50,40,High,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00099,INT-0048,ren choi,2001-08-04,Venezuela,OF,2023-02-17,40,50,55,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00100,,Hector Garcia,2005-06-12,Dominican Republic,OF,2024-11-22,40,55,45,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00101,INT-0050,Kenji Sanchez,2003-09-08,South Korea,OF,2023-08-26,40,60,45,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00102,,Jorge Mendez,2006-09-27,Panama,LHP,2024-05-02,40,40,40,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00103,INT-0051,Jorge Mendez,2006-09-27,Panamá,LHP,2024-05-16,40,35,40,Low,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00104,INT-0052,Yun-seo Ramirez,1999-10-18,Panama,C,2023-06-04,40,55,55,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00105,INT-0052,Yun-seo Ramirez,1999-10-18,Panama,C,2025-10-09,45,55,45,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00106,INT-0052,Yun-seo Ramirez,1999-10-18,Panama,C,2023-07-16,35,45,45,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00107,INT-0053,Isaac Dominguez,2004-10-01,Japan,IF,2023-05-06,35,45,45,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00108,INT-0053,Isaac Dominguez,2004-10-01,Japan,IF,2024-01-17,30,60,55,Low,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00109,,Omar Torres,2005-05-19,Japan,RHP,2024-05-07,50,35,40,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00110,INT-0055,Luis Ortega,2006-03-19,D.R.,OF,2023-03-23,45,45,45,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00111,INT-0055,Luis Ortega,2006-03-19,Dominican Republic,OF,2024-09-03,45,50,45,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00112,,Carlos Vargas,2005-08-02,Panama,IF,2023-11-23,40,50,60,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00113,INT-0056,Carlos Vargas,2005-08-02,Panama,IF,2025-12-20,40,45,65,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00114,INT-0056,Carlos Vargas,2005-08-02,Panama,IF,2025-02-21,35,50,55,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00115,INT-0057,Gabriel Ramirez,2003-06-24,Mexico,LHP,2023-02-05,40,45,55,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00116,INT-0058,Kenji Quintero,2000-08-17,México,IF,2023-08-19,35,55,30,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00117,INT-0058,Kenji Quintero,2000-08-17,Mexico,IF,2024-09-26,30,55,40,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00118,,Kenji Quintero,2000-08-17,Mexico,IF,2024-03-12,40,55,45,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00119,,Felix Lee,2006-06-26,South Korea,C,2025-02-04,45,45,35,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00120,INT-0059,felix lee,2006-06-26,KOR,C,2023-09-13,35,35,40,Low,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00121,INT-0060,Min-jun Torres,2007-12-20,Venezuela,RHP,2024-08-12,35,35,35,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00122,INT-0060,Min-jun Torres,2007-12-20,Venezuela,RHP,2023-08-02,30,40,40,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00123,INT-0061,Yun-seo Dominguez,2007-09-13,Venezuela,RHP,2023-09-07,45,50,40,High,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00124,INT-0061,Yun-seo Dominguez,2007-09-13,VEN,RHP,2025-12-02,55,55,45,High,Mexico,Advanced feel for age with present execution and development upside.
+SR-00125,INT-0061,Yun-seo Dominguez,2007-09-13,Venezuela,RHP,2023-01-12,50,55,45,Low,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00126,INT-0062,Carlos Torres,2002-06-15,Venezuela,LHP,2023-01-08,40,60,50,Low,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00127,INT-0063,Hector Herrera,2003-01-14,Venezuela,OF,2023-04-14,45,50,55,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00128,INT-0064,Seong-hyun Benitez 2,2003-03-03,Dominican Republic,IF,2025-10-18,35,50,35,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00129,INT-0064,Seong-hyun Benitez 2,2003-03-03,Dominican Republic,IF,2024-08-13,35,50,35,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00130,INT-0064,Seong-hyun Benitez 2,2003-03-03,Dominican Republic,IF,2024-02-22,40,45,35,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00131,INT-0065,Ruben Choi,2004-06-27,Dominican Republic,OF,2023-02-07,60,40,50,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00132,INT-0065,Ruben Choi,2004-06-27,Dominican Republic,OF,2025-07-02,50,50,60,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00133,INT-0066,Mateo Perez,2006-01-20,Venezuela,RHP,2024-04-07,50,45,45,Low,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00134,INT-0066,Mateo Perez,2006-01-20,Venezuela,RHP,2025-02-04,40,45,45,Low,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00135,INT-0066,Mateo Perez,2006-01-20,Venezuela,RHP,2024-02-14,45,40,45,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00136,INT-0067,Daniel Mori,2005-09-02,Dominican Republic,RHP,2024-12-14,40,40,40,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00137,INT-0067,Daniel Mori,2005-09-02,Dominican Rep.,RHP,2024-04-05,40,45,45,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00138,INT-0068,Rafael Han,2000-08-05,Colombia,IF,2024-08-07,35,45,40,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00139,INT-0068,Rafael Han,2000-08-05,Colombia,IF,2025-09-06,35,50,40,Low,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00140,INT-0069,Diego Herrera 2,2004-08-06,Cuba,RHP,2023-08-14,40,50,55,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00141,INT-0069,Diego Herrera 2,2004-08-06,Cuba,RHP,2024-06-27,45,60,45,High,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00142,INT-0070,Daichi Torres,2002-07-12,Dominican Republic,OF,2025-12-16,45,55,50,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00143,INT-0070,Daichi Torres,2002-07-12,Dominican Republic,OF,2025-03-11,30,40,50,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00144,INT-0071,Haruto Garcia,2001-03-10,Cuba,OF,2023-02-27,30,55,45,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00145,INT-0071,Haruto Garcia,2001-03-10,Cuba,OF,2023-12-21,25,50,55,Low,Mexico,Advanced feel for age with present execution and development upside.
+SR-00146,INT-0071,Haruto Garcia,2001-03-10,Cuba,OF,2025-06-19,30,55,50,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00147,,Omar Vargas,2005-11-24,Dominican Republic,OF,2023-11-22,45,65,60,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00148,INT-0072,Omar Vargas,2005-11-24,Dominican Republic,OF,2025-08-17,45,55,55,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00149,INT-0072,Omar Vargas,2005-11-24,Dominican Republic,OF,2024-06-09,40,55,55,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00150,INT-0073,Daichi Han,2002-08-16,Venezuela,LHP,2023-05-03,30,40,55,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00151,INT-0073,Daichi Han,2002-08-16,Venezuela,LHP,2025-05-27,35,45,50,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00152,INT-0073,Daichi Han,2002-08-16,Venezuela,LHP,2024-10-20,30,50,55,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00153,INT-0074,Isaac Ortega,2001-09-02,Dominican Republic,RHP,2023-08-21,40,35,45,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00154,INT-0074,Isaac Ortega,2001-09-02,Dominican Republic,RHP,2025-05-11,40,45,50,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00155,INT-0075,Ruben Fernandez,2003-04-04,Mexico,C,2024-03-04,35,60,50,High,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00156,INT-0075,Ruben Fernandez,2003-04-04,Mexico,C,2023-07-21,30,50,55,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00157,INT-0076,Hector Kim,1999-12-17,Cuba,OF,2025-12-08,35,50,45,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00158,INT-0076,Hector Kim,1999-12-17,CUB,OF,2025-10-05,35,50,40,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00159,INT-0076,Hector Kim,1999-12-17,Cuba,OF,2024-12-13,35,50,40,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00160,INT-0077,Kaito Mori,1999-04-13,México,RHP,2025-11-06,50,45,45,Low,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00161,INT-0078,Adrian Kim,2002-02-07,Dominican Rep.,OF,2024-10-17,40,30,50,High,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00162,,Adrian Kim,2002-02-07,Dominican Republic,OF,2024-03-24,35,40,45,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00163,INT-0078,Adrian Kim,2002-02-07,Dominican Republic,OF,2024-05-17,40,40,60,High,Mexico,Advanced feel for age with present execution and development upside.
+SR-00164,INT-0079,Kenji Yamamoto,2005-05-15,Cuba,OF,2023-03-19,60,45,40,Low,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00165,INT-0079,Kenji Yamamoto,2005-05-15,Cuba,OF,2024-12-03,50,50,40,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00166,INT-0080,Gabriel Sanchez,2006-06-10,Mexico,IF,2023-08-26,45,50,50,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00167,INT-0080,Gabriel Sanchez,2006-06-10,Mexico,IF,2023-01-06,40,50,50,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00168,INT-0081,Diego Jimenez,2000-12-01,Dominican Republic,RHP,2023-03-25,50,45,55,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00169,INT-0081,Diego Jimenez,2000-12-01,Dominican Republic,RHP,2025-11-27,45,60,55,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00170,INT-0081,Diego Jimenez,2000-12-01,Dominican Republic,RHP,2025-02-22,45,50,50,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00171,INT-0082,Seong-hyun Nakamura 2,2006-12-19,Venezuela,RHP,2024-02-02,40,40,50,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00172,,Seong-hyun Nakamura 2,2006-12-19,Venezuela,RHP,2023-09-17,45,50,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00173,INT-0083,emilio quintero,2005-01-15,VZ,IF,2023-05-27,40,45,45,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00174,INT-0084,Daniel Quintero,2005-06-09,Venezuela,IF,2025-07-03,30,50,55,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00175,INT-0084,Daniel Quintero,2005-06-09,Venezuela,IF,2025-08-13,30,50,45,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00176,INT-0085,Rafael Benitez,2005-09-08,Venezuela,OF,2025-03-23,35,50,45,Low,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00177,INT-0085,Rafael Benitez,2005-09-08,Venezuela,OF,2025-06-13,45,50,50,High,Mexico,Advanced feel for age with present execution and development upside.
+SR-00178,INT-0086,kenji valdez,2005-11-09,Japan,C,2024-04-14,40,45,45,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00179,,Kenji Valdez,2005-11-09,Japan,C,2025-06-21,40,45,45,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00180,INT-0086,Kenji Valdez,2005-11-09,Japan,C,2025-02-15,45,45,40,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00181,INT-0087,Daniel Sato 2,2006-04-22,JPN,RHP,2024-01-27,35,45,40,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00182,INT-0088,Felix Lopez,2005-03-26,Japan,OF,2025-01-14,30,30,45,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00183,INT-0089,Mateo Ortega,2003-05-19,Japan,RHP,2024-06-11,55,50,40,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00184,,Luis Sato,2002-11-26,Venezuela,RHP,2024-12-01,35,35,45,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00185,INT-0091,Ren Herrera,2001-04-13,Japan,LHP,2024-11-10,45,50,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00186,INT-0091,Ren Herrera,2001-04-13,Japan,LHP,2024-03-20,45,45,60,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00187,INT-0092,Alejandro Martinez,2001-02-19,South Korea,OF,2025-11-26,40,40,45,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00188,INT-0093,Kenji Quintero 2,2007-02-16,Panama,RHP,2023-06-10,40,40,45,Low,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00189,INT-0093,Kenji Quintero 2,2007-02-16,Panama,RHP,2024-04-20,45,45,40,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00190,INT-0094,Mateo Valdez,2006-08-01,Venezuela,IF,2024-05-23,50,55,40,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00191,INT-0094,Mateo Valdez,2006-08-01,Venezuela,IF,2023-05-16,55,55,60,Low,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00192,INT-0095,Emilio Benitez,2001-10-19,Japan,LHP,2024-07-06,35,45,55,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00193,INT-0096,esteban han 2,2007-02-09,D.R.,OF,2023-02-27,40,50,45,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00194,INT-0096,Esteban Han 2,2007-02-09,Dominican Republic,OF,2024-06-07,45,55,35,High,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00195,INT-0097,Hector Sato,1999-02-02,Cuba,RHP,2023-12-04,40,40,55,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00196,INT-0097,Hector Sato,1999-02-02,Cuba,RHP,2023-10-18,45,45,45,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00197,,hector kim 2,2005-06-09,Venezuela,IF,2023-10-04,20,55,40,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00198,INT-0098,Hector Kim 2,2005-06-09,Venezuela,IF,2024-02-09,35,45,50,High,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00199,INT-0098,hector kim 2,2005-06-09,Venezuela,IF,2024-09-13,25,50,45,Low,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00200,INT-0099,Alejandro Park,2006-02-27,Venezuela,OF,2024-04-09,55,40,60,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00201,INT-0100,Marco Sato,1999-07-21,Dominican Republic,IF,2025-12-13,60,40,50,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00202,INT-0101,Gabriel Perez,2002-07-05,South Korea,OF,2023-12-13,55,50,50,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00203,INT-0101,gabriel perez,2002-07-05,South Korea,OF,2023-01-10,45,35,50,Low,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00204,INT-0101,Gabriel Perez,2002-07-05,South Korea,OF,2025-12-17,45,40,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00205,INT-0102,Adrian Garcia,2006-03-23,Colombia,IF,2024-08-23,60,45,50,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00206,INT-0102,Adrian Garcia,2006-03-23,COL,IF,2023-06-26,55,40,50,High,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00207,INT-0103,Gabriel Tanaka,2002-03-03,Dominican Republic,RHP,2025-11-14,45,40,50,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00208,INT-0103,Gabriel Tanaka,2002-03-03,Dominican Republic,RHP,2023-11-08,50,35,45,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00209,INT-0104,Hector Jimenez,2006-11-01,Mexico,RHP,2025-09-26,25,40,25,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00210,INT-0105,Carlos Park,2002-01-06,Mexico,OF,2024-01-24,45,55,45,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00211,INT-0105,Carlos Park,2002-01-06,Mexico,OF,2023-01-02,45,50,40,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00212,INT-0106,Mateo Sanchez,2006-05-22,Panama,LHP,2025-09-27,45,50,55,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00213,INT-0106,Mateo Sanchez,2006-05-22,Panama,LHP,2024-10-21,45,45,50,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00214,INT-0106,Mateo Sanchez,2006-05-22,Panama,LHP,2025-02-01,45,55,50,Low,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00215,INT-0107,Rafael Navarro,2006-08-11,Venezuela,C,2023-11-21,30,40,50,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00216,INT-0107,Rafael Navarro,2006-08-11,Venezuela,C,2025-01-23,30,35,50,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00217,INT-0107,Rafael Navarro,2006-08-11,Venezuela,C,2023-09-01,35,35,55,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00218,INT-0108,Isaac Valdez,1999-05-15,VEN,LHP,2024-02-17,45,50,55,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00219,INT-0108,Isaac Valdez,1999-05-15,Venezuela,LHP,2025-10-01,40,50,60,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00220,INT-0108,Isaac Valdez,1999-05-15,Venezuela,LHP,2024-12-27,40,50,50,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00221,INT-0109,Nicolas Jimenez,2000-08-03,Cuba,OF,2023-10-07,50,50,55,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00222,INT-0110,Daichi Tanaka,2002-09-05,Mexico,RHP,2024-08-08,25,50,55,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00223,INT-0110,Daichi Tanaka,2002-09-05,Mexico,RHP,2025-09-24,30,45,50,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00224,INT-0111,Yun-seo Vargas 2,2002-10-05,DOM,RHP,2025-08-19,50,35,45,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00225,INT-0112,Rafael Navarro 2,2003-06-07,D.R.,OF,2025-02-24,25,55,40,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00226,INT-0112,rafael navarro 2,2003-06-07,Dominican Republic,OF,2024-03-04,25,50,40,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00227,INT-0112,Rafael Navarro 2,2003-06-07,Dominican Republic,OF,2023-03-07,25,50,40,Low,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00228,,Esteban Park,2005-11-02,Dominican Republic,LHP,2024-01-18,40,55,40,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00229,INT-0114,Ji-ho Mori 2,2007-07-26,Dominican Republic,C,2024-11-18,45,35,50,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00230,INT-0115,Jorge Mendez 2,2007-11-24,D.R.,IF,2024-07-19,30,45,45,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00231,INT-0115,Jorge Mendez 2,2007-11-24,Dominican Republic,IF,2023-09-13,40,50,50,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00232,INT-0115,Jorge Mendez 2,2007-11-24,Dominican Republic,IF,2025-06-13,40,50,45,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00233,INT-0116,Emilio Yamamoto,2002-01-09,DOM,OF,2025-10-15,40,60,50,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00234,INT-0116,Emilio Yamamoto,2002-01-09,Dominican Republic,OF,2023-02-21,40,55,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00235,INT-0116,Emilio Yamamoto,2002-01-09,D.R.,OF,2024-11-24,30,60,55,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00236,,Ren Ortega,2000-12-08,Venezuela,RHP,2024-01-08,40,35,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00237,INT-0118,Daniel Mendez,2004-02-25,Cuba,OF,2023-05-03,40,50,55,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00238,,Yun-seo Ortega,2000-02-20,Venezuela,LHP,2023-03-01,50,40,45,High,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00239,INT-0120,Yun-seo Garcia,2002-07-18,Panama,RHP,2023-11-26,30,45,55,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00240,INT-0120,Yun-seo Garcia,2002-07-18,Panama,RHP,2023-07-05,35,40,55,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00241,INT-0120,Yun-seo Garcia,2002-07-18,Panama,RHP,2023-12-20,35,45,45,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00242,INT-0121,Isaac Quintero,2006-03-14,Mexico,IF,2023-03-05,60,55,40,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00243,INT-0121,Isaac Quintero,2006-03-14,Mexico,IF,2025-11-08,65,60,35,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00244,INT-0122,Santiago Rojas,2000-07-12,Venezuela,OF,2023-08-02,55,50,50,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00245,INT-0123,Ren Quintero,2004-06-15,Dominican Republic,RHP,2023-09-16,45,25,40,Low,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00246,INT-0123,ren quintero,2004-06-15,Dominican Republic,RHP,2024-11-12,40,20,40,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00247,,Kaito Vargas,2004-01-17,Dominican Republic,IF,2025-12-13,50,45,50,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00248,INT-0125,Kenji Perez,2005-08-09,Mexico,OF,2025-03-04,50,50,55,Low,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00249,,Kenji Perez,2005-08-09,Mexico,OF,2024-09-12,40,45,45,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00250,INT-0125,kenji perez,2005-08-09,Mexico,OF,2023-02-10,55,40,45,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00251,INT-0126,Alejandro Nakamura,2004-09-10,Venezuela,RHP,2024-07-02,55,30,35,High,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00252,INT-0126,Alejandro Nakamura,2004-09-10,Venezuela,RHP,2023-09-10,50,30,55,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00253,INT-0127,Ji-ho Estrada,2001-07-06,Dominican Republic,LHP,2025-01-03,40,35,45,High,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00254,INT-0127,Ji-ho Estrada,2001-07-06,DOM,LHP,2023-06-04,40,45,55,Low,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00255,INT-0127,Ji-ho Estrada,2001-07-06,Dominican Republic,LHP,2023-02-10,50,45,45,High,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00256,INT-0128,Javier Jimenez,2005-07-23,Dominican Republic,RHP,2025-07-27,40,50,50,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00257,INT-0129,Felix Herrera,2001-06-10,Venezuela,RHP,2025-05-22,30,60,50,Low,Mexico,Advanced feel for age with present execution and development upside.
+SR-00258,,Felix Herrera,2001-06-10,Venezuela,RHP,2023-10-13,30,60,50,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00259,INT-0129,Felix Herrera,2001-06-10,Venezuela,RHP,2024-10-15,30,60,45,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00260,INT-0130,Yun-seo Navarro,1999-12-10,Dominican Republic,IF,2024-10-04,35,40,30,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00261,,Isaac Ramirez,2004-06-13,Dominican Republic,RHP,2025-11-14,45,50,50,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00262,INT-0132,Andres Choi,2000-11-05,Panama,OF,2024-02-18,45,60,40,High,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00263,INT-0132,Andres Choi,2000-11-05,Panama,OF,2023-07-15,40,60,50,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00264,INT-0132,Andres Choi,2000-11-05,Panama,OF,2024-09-09,40,65,55,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00265,INT-0133,Emilio Fernandez,2004-12-21,DOM,RHP,2024-03-09,40,45,45,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00266,INT-0133,Emilio Fernandez,2004-12-21,Dominican Republic,RHP,2025-06-03,30,40,40,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00267,INT-0134,Min-jun Estrada,2002-03-26,Japan,OF,2025-11-16,40,50,55,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00268,INT-0135,Rafael Ortega,2005-01-16,Cuba,RHP,2024-11-09,25,60,55,High,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00269,INT-0135,Rafael Ortega,2005-01-16,Cuba,RHP,2024-09-24,25,55,45,High,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00270,INT-0135,rafael ortega,2005-01-16,Cuba,RHP,2023-10-02,35,55,40,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00271,INT-0136,Hector Nakamura,2000-03-16,Venezuela,RHP,2025-04-09,40,50,45,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00272,INT-0137,Esteban Quintero,1999-10-27,Dominican Republic,IF,2023-11-01,55,45,35,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00273,INT-0138,Nicolas Lee,2000-04-08,Dominican Republic,LHP,2023-06-23,40,60,60,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00274,INT-0138,nicolas lee,2000-04-08,Dominican Republic,LHP,2024-02-08,35,65,55,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00275,INT-0138,Nicolas Lee,2000-04-08,DOM,LHP,2023-04-18,40,70,45,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00276,INT-0139,Andres Fernandez,2000-03-11,Mexico,OF,2025-03-18,50,55,40,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00277,INT-0139,Andres Fernandez,2000-03-11,Mexico,OF,2025-08-24,55,60,40,High,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00278,INT-0140,Nicolas Kim,2000-12-03,Dominican Republic,OF,2024-07-22,40,40,50,High,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00279,INT-0140,Nicolas Kim,2000-12-03,Dominican Republic,OF,2025-02-03,50,45,45,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00280,INT-0140,Nicolas Kim,2000-12-03,Dominican Republic,OF,2023-01-19,50,45,40,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00281,INT-0141,Jorge Dominguez 2,2005-07-14,Dominican Republic,C,2023-05-27,40,45,45,High,Mexico,Advanced feel for age with present execution and development upside.
+SR-00282,INT-0142,Ji-ho Garcia,1999-09-22,South Korea,OF,2024-09-04,65,40,50,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00283,INT-0142,Ji-ho Garcia,1999-09-22,South Korea,OF,2024-04-05,60,50,50,High,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00284,INT-0142,Ji-ho Garcia,1999-09-22,South Korea,OF,2023-01-25,60,50,35,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00285,INT-0143,Santiago Han,2004-05-17,Dominican Republic,OF,2023-06-16,40,40,45,Low,Mexico,Advanced feel for age with present execution and development upside.
+SR-00286,INT-0143,Santiago Han,2004-05-17,Dominican Republic,OF,2023-10-06,40,45,50,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00287,INT-0143,Santiago Han,2004-05-17,Dominican Republic,OF,2025-03-17,35,45,45,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00288,INT-0144,Omar Alvarez,2001-07-17,Dominican Republic,IF,2024-07-06,40,40,50,High,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00289,INT-0144,Omar Alvarez,2001-07-17,Dominican Republic,IF,2024-07-07,35,40,55,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00290,INT-0145,isaac nakamura,2001-09-20,Dominican Republic,OF,2024-01-14,35,45,50,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00291,INT-0146,Luis Yamamoto,2007-07-03,Mexico,IF,2024-06-01,45,50,60,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00292,INT-0146,luis yamamoto,2007-07-03,Mexico,IF,2023-03-02,40,55,50,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00293,INT-0147,Daniel Estrada,2005-12-23,Panama,OF,2025-11-25,55,60,45,Low,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00294,INT-0148,Adrian Estrada,1999-10-02,Cuba,IF,2025-07-17,45,50,45,Low,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00295,INT-0149,Andres Fernandez 2,2002-02-21,South Korea,RHP,2023-02-10,50,50,45,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00296,INT-0149,Andres Fernandez 2,2002-02-21,South Korea,RHP,2023-12-09,45,55,40,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00297,INT-0150,Min-jun Garcia,2000-04-27,Japan,OF,2024-09-12,50,60,55,Low,Mexico,Advanced feel for age with present execution and development upside.
+SR-00298,INT-0150,Min-jun Garcia,2000-04-27,Japan,OF,2025-09-14,45,60,45,Low,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00299,INT-0150,Min-jun Garcia,2000-04-27,Japan,OF,2025-02-17,45,55,65,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00300,INT-0151,Santiago Tanaka,2005-06-02,Japan,RHP,2025-06-21,30,40,65,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00301,,Santiago Tanaka,2005-06-02,Japan,RHP,2024-08-03,30,40,50,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00302,INT-0151,Santiago Tanaka,2005-06-02,Japan,RHP,2024-06-04,25,45,55,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00303,INT-0152,Alejandro Kim,1999-08-20,Venezuela,C,2023-01-26,30,40,45,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00304,INT-0153,Mateo Quintero 2,2007-12-14,Venezuela,C,2023-05-04,50,35,55,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00305,INT-0153,Mateo Quintero 2,2007-12-14,Venezuela,C,2025-04-18,45,40,60,Low,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00306,INT-0153,Mateo Quintero 2,2007-12-14,Venezuela,C,2025-04-10,45,40,55,High,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00307,INT-0154,Ren Benitez,1999-12-27,Mexico,RHP,2024-11-01,40,40,50,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00308,INT-0154,Ren Benitez,1999-12-27,Mexico,RHP,2025-04-04,45,45,45,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00309,INT-0155,Omar Torres 2,2002-12-22,South Korea,OF,2024-05-01,35,40,50,Low,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00310,INT-0155,Omar Torres 2,2002-12-22,South Korea,OF,2025-02-09,45,50,45,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00311,INT-0155,Omar Torres 2,2002-12-22,South Korea,OF,2023-11-22,45,45,40,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00312,INT-0156,Hector Sato 2,2001-03-11,Cuba,OF,2025-06-25,40,50,55,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00313,INT-0157,omar jimenez,1999-07-05,Venezuela,IF,2024-07-24,45,55,50,High,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00314,INT-0157,Omar Jimenez,1999-07-05,Venezuela,IF,2023-07-26,40,55,50,High,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00315,INT-0158,nicolas choi,1999-10-27,Venezuela,RHP,2025-04-19,35,45,50,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00316,INT-0159,Daichi Vargas,1999-02-15,Dominican Republic,OF,2024-10-04,45,55,40,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00317,INT-0159,Daichi Vargas,1999-02-15,Dominican Republic,OF,2025-02-02,45,55,50,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00318,INT-0159,Daichi Vargas,1999-02-15,Dominican Republic,OF,2023-03-20,50,65,40,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00319,,Santiago Han 2,2007-03-22,Mexico,RHP,2023-03-10,40,35,40,Low,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00320,INT-0161,Kaito Herrera,2003-09-10,D.R.,LHP,2023-01-26,35,50,45,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00321,INT-0161,Kaito Herrera,2003-09-10,Dominican Republic,LHP,2025-11-04,30,35,45,Low,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00322,INT-0162,Alejandro Dominguez 2,2005-03-05,Venezuela,IF,2024-04-25,35,50,50,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00323,INT-0163,Santiago Quintero,2003-12-14,Dominican Republic,OF,2025-07-23,30,50,40,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00324,INT-0164,Alejandro Mori,2004-07-14,Mexico,C,2025-01-16,35,55,40,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00325,INT-0164,Alejandro Mori,2004-07-14,Mexico,C,2024-03-12,40,60,45,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00326,,daichi mendez,2007-03-11,Japan,LHP,2023-08-26,50,55,45,High,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00327,INT-0166,Emilio Choi,2003-12-04,Dominican Republic,IF,2023-03-24,25,40,35,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00328,INT-0167,jorge sanchez,2003-05-01,South Korea,LHP,2023-08-09,40,55,45,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00329,INT-0168,Isaac Han,2001-02-06,Venezuela,RHP,2025-08-05,50,45,50,High,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00330,INT-0169,Jorge Benitez,2001-08-21,Mexico,LHP,2024-07-09,40,55,55,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00331,INT-0169,Jorge Benitez,2001-08-21,Mexico,LHP,2025-03-13,50,50,60,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00332,INT-0169,Jorge Benitez,2001-08-21,México,LHP,2024-06-22,45,50,55,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00333,INT-0170,Yun-seo Torres,2004-07-21,Mexico,RHP,2023-07-23,40,55,35,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00334,INT-0170,yun-seo torres,2004-07-21,Mexico,RHP,2024-12-20,40,45,40,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00335,INT-0170,Yun-seo Torres,2004-07-21,Mexico,RHP,2023-08-18,40,60,45,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00336,INT-0171,Kenji Lopez,2001-12-27,South Korea,IF,2024-04-22,45,50,35,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00337,INT-0171,Kenji Lopez,2001-12-27,South Korea,IF,2023-03-17,40,45,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00338,INT-0171,Kenji Lopez,2001-12-27,South Korea,IF,2025-10-02,40,55,45,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00339,INT-0172,Andres Ramirez,1999-06-05,Cuba,LHP,2025-09-05,35,60,55,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00340,INT-0173,Nicolas Perez,2007-12-27,Colombia,C,2025-07-11,35,40,45,Low,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00341,INT-0173,nicolas perez,2007-12-27,Colombia,C,2023-02-01,45,35,45,Low,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00342,INT-0173,Nicolas Perez,2007-12-27,Colombia,C,2024-11-12,45,40,45,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00343,INT-0174,Daichi Mendez 2,2000-01-11,D.R.,LHP,2023-02-23,50,60,50,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00344,INT-0174,Daichi Mendez 2,2000-01-11,Dominican Republic,LHP,2023-07-20,50,55,45,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00345,INT-0175,Javier Navarro,2004-05-03,JPN,C,2025-02-19,40,45,50,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00346,,Javier Navarro,2004-05-03,Japan,C,2023-12-27,45,55,55,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00347,INT-0176,Omar Herrera,2001-10-25,South Korea,RHP,2025-08-13,30,45,50,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00348,INT-0176,Omar Herrera,2001-10-25,South Korea,RHP,2023-01-15,25,50,45,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00349,INT-0176,Omar Herrera,2001-10-25,South Korea,RHP,2024-09-14,35,45,50,High,Mexico,Advanced feel for age with present execution and development upside.
+SR-00350,INT-0177,seong-hyun valdez,2002-01-02,Dominican Republic,IF,2025-04-17,45,45,35,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00351,INT-0177,Seong-hyun Valdez,2002-01-02,Dominican Republic,IF,2025-03-22,35,30,55,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00352,,Seong-hyun Valdez,2002-01-02,Dominican Republic,IF,2023-02-08,45,40,40,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00353,INT-0178,Felix Garcia,2007-05-10,Venezuela,LHP,2025-04-27,40,45,40,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00354,INT-0178,felix garcia,2007-05-10,Venezuela,LHP,2024-04-11,40,35,50,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00355,INT-0179,Alejandro Torres,1999-10-02,Mexico,LHP,2023-06-19,45,60,45,Low,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00356,INT-0179,alejandro torres,1999-10-02,México,LHP,2025-11-23,50,50,55,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00357,INT-0179,Alejandro Torres,1999-10-02,Mexico,LHP,2024-03-15,50,55,55,High,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00358,INT-0180,Andres Quintero,2003-10-01,Dominican Republic,OF,2023-05-19,40,45,50,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00359,INT-0180,Andres Quintero,2003-10-01,Dominican Republic,OF,2025-01-08,35,40,40,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00360,INT-0181,min-jun jimenez,2004-06-13,Venezuela,RHP,2024-03-02,55,55,50,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00361,INT-0182,Kaito Torres,2002-07-02,Venezuela,RHP,2024-01-22,60,50,40,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00362,INT-0182,Kaito Torres,2002-07-02,Venezuela,RHP,2025-12-05,60,45,45,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00363,INT-0182,Kaito Torres,2002-07-02,Venezuela,RHP,2024-10-05,60,50,50,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00364,INT-0183,Marco Rojas,2007-07-16,Cuba,RHP,2023-11-21,45,40,65,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00365,,Marco Rojas,2007-07-16,Cuba,RHP,2023-08-15,50,45,55,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00366,INT-0183,Marco Rojas,2007-07-16,Cuba,RHP,2024-12-24,50,50,50,High,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00367,INT-0184,Felix Benitez,1999-01-14,Mexico,OF,2024-11-05,40,40,50,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00368,INT-0185,Carlos Vargas 2,2003-02-20,Japan,C,2024-01-24,45,50,60,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00369,INT-0186,Isaac Martinez,2005-05-09,Venezuela,C,2025-03-08,45,50,40,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00370,INT-0186,Isaac Martinez,2005-05-09,Venezuela,C,2024-11-15,50,50,45,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00371,INT-0186,Isaac Martinez,2005-05-09,Venezuela,C,2024-05-02,35,45,50,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00372,,rafael sato,2006-09-11,Dominican Republic,OF,2024-11-18,40,55,45,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00373,INT-0187,Rafael Sato,2006-09-11,Dominican Republic,OF,2025-02-14,40,60,45,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00374,INT-0188,Nicolas Jimenez 2,2005-04-09,VZ,RHP,2025-11-27,45,45,45,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00375,,Nicolas Jimenez 2,2005-04-09,Venezuela,RHP,2024-09-25,35,45,50,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00376,INT-0188,nicolas jimenez 2,2005-04-09,Venezuela,RHP,2024-11-14,45,50,45,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00377,,gabriel torres,2002-01-20,Colombia,OF,2023-07-25,55,55,45,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00378,INT-0190,Adrian Torres,2004-08-26,Japan,OF,2024-01-16,45,35,40,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00379,INT-0191,min-jun sato,2007-05-20,Venezuela,RHP,2025-06-07,45,55,45,High,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00380,INT-0191,Min-jun Sato,2007-05-20,Venezuela,RHP,2023-05-10,40,50,45,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00381,INT-0192,Diego Yamamoto,2004-04-19,Mexico,LHP,2023-08-19,30,50,40,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00382,INT-0192,Diego Yamamoto,2004-04-19,Mexico,LHP,2025-09-10,30,50,45,Low,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00383,INT-0193,Emilio Sanchez,1999-04-22,Venezuela,C,2025-09-20,35,55,45,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00384,INT-0193,Emilio Sanchez,1999-04-22,Venezuela,C,2023-03-04,45,55,45,High,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00385,INT-0194,Min-jun Navarro,1999-10-23,Dominican Republic,RHP,2024-05-19,40,40,50,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00386,INT-0195,Hector Garcia 2,2002-06-23,Dominican Rep.,IF,2025-10-22,50,50,50,High,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00387,INT-0195,Hector Garcia 2,2002-06-23,DOM,IF,2025-10-19,45,45,60,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00388,INT-0195,Hector Garcia 2,2002-06-23,Dominican Republic,IF,2025-09-05,40,50,60,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00389,INT-0196,nicolas vargas,2005-01-14,Dominican Republic,RHP,2024-09-25,45,55,55,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00390,INT-0197,Kenji Benitez,2003-07-21,Cuba,RHP,2024-02-04,40,50,60,High,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00391,INT-0197,kenji benitez,2003-07-21,Cuba,RHP,2024-10-15,40,45,55,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00392,INT-0198,Gabriel Sanchez 2,2007-09-21,COL,IF,2023-01-15,40,50,60,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00393,INT-0199,Yun-seo Navarro 2,2000-08-16,Dominican Republic,OF,2025-04-18,50,35,45,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00394,INT-0199,Yun-seo Navarro 2,2000-08-16,Dominican Republic,OF,2025-12-14,40,45,35,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00395,INT-0199,Yun-seo Navarro 2,2000-08-16,Dominican Republic,OF,2023-11-01,50,30,45,High,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00396,INT-0200,Diego Mendez,1999-01-23,DOM,IF,2025-04-17,40,50,40,High,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00397,INT-0200,Diego Mendez,1999-01-23,Dominican Republic,IF,2023-11-03,35,50,35,Low,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00398,INT-0200,Diego Mendez,1999-01-23,Dominican Rep.,IF,2025-08-11,35,45,45,High,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00399,INT-0201,Mateo Dominguez,2000-10-19,MEX,IF,2024-11-24,35,40,40,Low,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00400,INT-0201,Mateo Dominguez,2000-10-19,Mexico,IF,2023-11-01,50,35,40,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00401,INT-0201,mateo dominguez,2000-10-19,Mexico,IF,2023-02-19,45,30,50,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00402,INT-0202,Nicolas Tanaka,2000-07-25,Panama,C,2024-11-16,55,45,50,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00403,INT-0203,min-jun kim,2007-09-03,Dominican Republic,OF,2023-12-16,40,50,60,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00404,INT-0203,min-jun kim,2007-09-03,D.R.,OF,2025-07-17,35,45,40,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00405,INT-0203,Min-jun Kim,2007-09-03,Dominican Republic,OF,2025-04-11,40,55,45,High,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00406,INT-0204,Daichi Yamamoto,2000-08-12,Panama,IF,2025-01-26,50,50,35,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00407,INT-0204,Daichi Yamamoto,2000-08-12,Panama,IF,2023-08-14,45,50,35,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00408,INT-0204,Daichi Yamamoto,2000-08-12,Panama,IF,2024-06-01,40,50,40,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00409,INT-0205,Alejandro Benitez,2005-08-10,Venezuela,IF,2024-04-10,50,50,45,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00410,INT-0205,Alejandro Benitez,2005-08-10,Venezuela,IF,2023-09-16,50,35,40,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00411,INT-0206,Ruben Choi 2,2002-08-05,Japan,RHP,2025-09-24,40,50,50,High,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00412,INT-0207,Alejandro Nakamura 2,2001-01-22,Mexico,LHP,2025-09-05,55,45,65,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00413,INT-0207,Alejandro Nakamura 2,2001-01-22,Mexico,LHP,2025-07-16,55,45,65,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00414,INT-0207,Alejandro Nakamura 2,2001-01-22,Mexico,LHP,2025-04-20,50,40,55,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00415,INT-0208,Esteban Martinez,2006-10-22,Cuba,LHP,2024-10-11,30,60,45,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00416,INT-0208,Esteban Martinez,2006-10-22,Cuba,LHP,2023-12-16,40,50,50,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00417,INT-0208,Esteban Martinez,2006-10-22,Cuba,LHP,2023-03-01,35,60,45,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00418,INT-0209,Ruben Valdez,2005-06-06,Dominican Republic,OF,2023-09-13,40,55,55,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00419,INT-0209,Ruben Valdez,2005-06-06,Dominican Republic,OF,2025-10-05,45,45,45,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00420,INT-0209,Ruben Valdez,2005-06-06,Dominican Republic,OF,2024-05-02,45,55,55,High,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00421,INT-0210,Alejandro Valdez,2005-06-24,Japan,C,2024-08-05,30,35,35,Low,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00422,INT-0210,Alejandro Valdez,2005-06-24,Japan,C,2024-04-13,30,40,40,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00423,INT-0211,Isaac Fernandez,2005-08-08,México,LHP,2025-11-16,40,50,55,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00424,INT-0212,Santiago Sato,1999-12-25,Japan,RHP,2025-08-14,45,45,45,High,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00425,INT-0212,Santiago Sato,1999-12-25,Japan,RHP,2025-11-27,40,50,40,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00426,INT-0213,Seong-hyun Herrera,1999-12-12,Mexico,LHP,2023-04-06,50,65,50,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00427,,Hector Lopez,2001-04-07,Japan,RHP,2024-12-27,50,60,60,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00428,INT-0214,Hector Lopez,2001-04-07,Japan,RHP,2023-03-03,45,50,50,High,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00429,,Marco Benitez,1999-12-11,Dominican Republic,IF,2024-07-21,35,55,50,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00430,INT-0216,Daichi Dominguez,2001-11-10,Colombia,RHP,2024-05-09,55,50,45,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00431,INT-0216,Daichi Dominguez,2001-11-10,Colombia,RHP,2025-03-25,45,45,55,Low,Mexico,Advanced feel for age with present execution and development upside.
+SR-00432,INT-0216,daichi dominguez,2001-11-10,Colombia,RHP,2025-06-25,50,40,45,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00433,,Yun-seo Kim,2006-02-23,Colombia,IF,2024-01-26,40,45,40,High,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00434,INT-0218,Mateo Ramirez,1999-02-13,South Korea,RHP,2023-10-11,30,40,55,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00435,INT-0219,Andres Jimenez,2002-11-16,Venezuela,RHP,2024-05-18,40,55,45,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00436,INT-0219,Andres Jimenez,2002-11-16,VEN,RHP,2023-04-11,45,65,45,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00437,INT-0219,andres jimenez,2002-11-16,Venezuela,RHP,2023-03-03,40,60,40,High,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00438,INT-0220,Ren Valdez,2005-03-27,Venezuela,LHP,2024-10-07,60,45,55,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00439,INT-0221,Santiago Garcia,2005-09-23,Cuba,RHP,2024-03-05,45,55,55,High,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00440,INT-0221,Santiago Garcia,2005-09-23,Cuba,RHP,2023-09-25,45,45,50,Low,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00441,INT-0221,Santiago Garcia,2005-09-23,Cuba,RHP,2023-04-14,40,60,55,Low,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00442,INT-0222,Diego Choi,2001-10-11,Panama,C,2025-10-25,35,45,60,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00443,INT-0223,Ren Ortega 2,2000-06-16,Venezuela,RHP,2023-12-20,45,30,50,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00444,INT-0223,Ren Ortega 2,2000-06-16,VEN,RHP,2024-05-20,40,40,50,Low,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00445,INT-0224,Marco Sanchez 2,2000-06-22,Mexico,C,2025-12-25,50,45,40,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00446,INT-0224,Marco Sanchez 2,2000-06-22,Mexico,C,2025-08-27,50,40,50,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00447,INT-0224,Marco Sanchez 2,2000-06-22,Mexico,C,2024-02-23,50,35,55,High,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00448,INT-0225,Ji-ho Nakamura,2000-04-14,D.R.,IF,2024-07-20,35,45,50,High,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00449,INT-0225,Ji-ho Nakamura,2000-04-14,Dominican Republic,IF,2025-02-09,35,55,50,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00450,INT-0226,Nicolas Benitez,2006-09-19,Venezuela,OF,2025-10-04,45,35,45,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00451,,Nicolas Benitez,2006-09-19,VEN,OF,2023-02-19,45,40,40,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00452,INT-0227,Nicolas Sato,2001-03-23,Panama,RHP,2023-03-07,55,50,45,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00453,INT-0227,Nicolas Sato,2001-03-23,PAN,RHP,2024-08-13,60,45,35,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00454,INT-0228,daichi lee,2002-03-07,Venezuela,C,2024-03-06,45,40,50,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00455,,Daichi Lee,2002-03-07,Venezuela,C,2024-08-07,40,40,45,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00456,INT-0229,Alejandro Martinez 2,2006-03-02,Dominican Republic,C,2023-10-11,50,30,50,Low,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00457,INT-0230,marco lee,2005-06-27,Dominican Republic,RHP,2024-02-18,50,35,35,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00458,INT-0230,Marco Lee,2005-06-27,Dominican Republic,RHP,2024-10-15,50,35,50,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00459,INT-0231,Mateo Yamamoto,2002-08-21,Japan,IF,2024-10-17,50,50,40,Low,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00460,INT-0232,Seong-hyun Mendez,2000-11-05,DOM,OF,2025-12-08,45,45,45,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00461,INT-0233,Ji-ho Dominguez,2001-03-21,México,LHP,2024-09-08,35,40,50,Low,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00462,INT-0234,Luis Nakamura,1999-07-15,Panama,OF,2023-05-17,35,55,50,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00463,INT-0234,Luis Nakamura,1999-07-15,Panama,OF,2025-06-11,40,55,50,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00464,INT-0234,Luis Nakamura,1999-07-15,Panama,OF,2024-03-25,40,50,45,High,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00465,INT-0235,Santiago Dominguez,2004-09-22,Dominican Republic,LHP,2024-05-18,45,55,50,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00466,INT-0236,Mateo Lopez,1999-12-21,Mexico,C,2024-08-14,50,35,40,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00467,INT-0236,Mateo Lopez,1999-12-21,México,C,2023-09-14,50,45,40,High,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00468,INT-0236,mateo lopez,1999-12-21,Mexico,C,2025-09-03,40,45,55,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00469,INT-0237,Seong-hyun Park 2,2006-06-15,Japan,RHP,2024-04-22,45,45,50,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00470,INT-0237,Seong-hyun Park 2,2006-06-15,JPN,RHP,2025-07-10,55,45,45,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00471,INT-0238,Emilio Lee,2005-03-21,Venezuela,C,2024-12-20,45,50,55,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00472,INT-0238,Emilio Lee,2005-03-21,VZ,C,2024-12-04,40,50,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00473,INT-0238,Emilio Lee,2005-03-21,Venezuela,C,2025-09-04,45,50,50,High,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00474,INT-0239,Gabriel Park 2,2001-12-13,VEN,IF,2023-02-26,45,50,55,Low,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00475,INT-0239,Gabriel Park 2,2001-12-13,VZ,IF,2024-09-27,55,50,50,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00476,INT-0239,Gabriel Park 2,2001-12-13,Venezuela,IF,2023-08-12,45,50,50,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00477,INT-0240,Seong-hyun Dominguez,2001-12-07,Venezuela,IF,2024-06-27,50,50,35,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00478,INT-0240,Seong-hyun Dominguez,2001-12-07,Venezuela,IF,2023-09-05,60,40,45,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00479,INT-0241,Hector Torres,2000-02-09,DOM,RHP,2025-01-22,50,35,55,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00480,INT-0241,Hector Torres,2000-02-09,D.R.,RHP,2025-04-12,40,30,50,Medium,Mexico,Advanced feel for age with present execution and development upside.
+SR-00481,INT-0242,Emilio Estrada,2004-08-15,Panama,IF,2025-02-05,35,55,45,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00482,,Emilio Estrada,2004-08-15,Panama,IF,2023-04-04,30,55,55,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00483,INT-0243,Gabriel Estrada,2005-08-09,Panama,LHP,2025-06-21,40,45,50,High,Mexico,Advanced feel for age with present execution and development upside.
+SR-00484,INT-0243,Gabriel Estrada,2005-08-09,Panama,LHP,2024-04-26,40,40,50,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00485,INT-0244,Daniel Tanaka,2006-03-07,Venezuela,RHP,2023-10-03,45,50,40,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00486,INT-0245,diego vargas,2003-05-10,Japan,IF,2025-04-07,30,60,50,Low,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00487,INT-0246,Ren Castillo,2000-12-23,D.R.,RHP,2024-05-14,40,50,50,Low,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00488,INT-0247,Takeshi Han,2000-02-13,Dominican Republic,OF,2023-10-10,30,50,45,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00489,INT-0247,Takeshi Han,2000-02-13,Dominican Republic,OF,2023-03-12,45,50,45,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00490,INT-0247,Takeshi Han,2000-02-13,Dominican Republic,OF,2024-02-04,45,40,40,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00491,INT-0248,Takeshi Mendez,2000-04-26,Dominican Republic,IF,2024-07-12,45,40,50,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00492,INT-0248,Takeshi Mendez,2000-04-26,Dominican Republic,IF,2025-12-06,50,35,45,High,Mexico,Advanced feel for age with present execution and development upside.
+SR-00493,,Felix Quintero,2000-08-19,Venezuela,OF,2023-06-15,55,35,45,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00494,,Felix Quintero,2000-08-19,VEN,OF,2025-08-11,55,30,40,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00495,INT-0250,Kaito Herrera 2,2007-02-06,Dominican Republic,IF,2023-05-20,40,50,40,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00496,,Daniel Garcia,2004-10-18,Panama,RHP,2023-11-14,30,50,40,High,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00497,INT-0251,Daniel Garcia,2004-10-18,Panama,RHP,2025-01-12,25,60,40,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00498,INT-0251,Daniel Garcia,2004-10-18,Panama,RHP,2025-09-02,25,55,35,High,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00499,INT-0252,Min-jun Kim 2,2003-10-13,Dominican Republic,OF,2025-11-12,50,55,55,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00500,INT-0253,Isaac Nakamura 2,2000-04-12,Venezuela,IF,2023-02-05,40,40,60,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00501,INT-0254,Javier Herrera,2005-08-25,Panama,IF,2023-02-06,45,40,40,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00502,INT-0255,Emilio Mendez,2005-12-22,VEN,IF,2023-11-11,40,50,55,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00503,INT-0255,Emilio Mendez,2005-12-22,Venezuela,IF,2025-09-13,40,50,60,High,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00504,INT-0255,Emilio Mendez,2005-12-22,VEN,IF,2023-02-10,45,50,50,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00505,INT-0256,Emilio Estrada 2,2001-08-22,Dominican Republic,RHP,2024-07-25,50,65,45,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00506,INT-0257,Andres Ramirez 2,1999-10-15,Dominican Republic,OF,2025-12-05,35,40,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00507,INT-0257,Andres Ramirez 2,1999-10-15,Dominican Republic,OF,2025-01-21,35,50,40,High,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00508,INT-0258,Esteban Dominguez,2006-10-15,Japan,OF,2023-03-18,35,50,45,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00509,INT-0258,esteban dominguez,2006-10-15,JPN,OF,2024-10-20,45,55,40,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00510,,Esteban Dominguez,2006-10-15,Japan,OF,2024-10-14,35,60,40,High,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00511,INT-0259,javier rojas,2001-02-09,Venezuela,RHP,2023-07-25,50,30,55,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00512,INT-0259,Javier Rojas,2001-02-09,Venezuela,RHP,2023-02-16,45,35,45,Low,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00513,INT-0260,Rafael Martinez,1999-12-08,Japan,RHP,2024-02-22,40,45,45,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00514,INT-0260,Rafael Martinez,1999-12-08,Japan,RHP,2023-01-25,40,50,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00515,INT-0260,Rafael Martinez,1999-12-08,Japan,RHP,2025-09-05,40,40,35,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00516,INT-0261,Ji-ho Jimenez 2,2007-04-22,Dominican Republic,RHP,2023-10-01,50,40,55,High,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00517,INT-0261,Ji-ho Jimenez 2,2007-04-22,Dominican Republic,RHP,2025-10-26,50,35,55,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00518,INT-0262,Carlos Perez,2005-01-08,Colombia,RHP,2025-11-07,45,40,60,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00519,,carlos perez,2005-01-08,Colombia,RHP,2023-05-01,45,40,55,Low,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00520,INT-0263,Luis Mendez,2002-08-01,Dominican Rep.,OF,2024-12-19,50,40,50,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00521,INT-0263,Luis Mendez,2002-08-01,Dominican Republic,OF,2023-02-27,55,45,65,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00522,INT-0263,Luis Mendez,2002-08-01,Dominican Republic,OF,2024-11-16,50,45,55,High,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00523,INT-0264,Javier Fernandez,2006-01-22,Venezuela,RHP,2024-06-04,55,45,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00524,INT-0265,Esteban Dominguez 2,2006-08-09,Dominican Republic,RHP,2024-01-22,40,50,50,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00525,INT-0265,Esteban Dominguez 2,2006-08-09,Dominican Republic,RHP,2024-11-10,40,55,50,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00526,INT-0266,Ren Alvarez,2005-04-23,Venezuela,OF,2024-04-02,40,55,45,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00527,INT-0266,Ren Alvarez,2005-04-23,Venezuela,OF,2025-01-07,35,50,40,High,Mexico,Advanced feel for age with present execution and development upside.
+SR-00528,INT-0267,Gabriel Garcia,2003-09-06,Dominican Rep.,IF,2025-08-04,45,50,45,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00529,INT-0267,Gabriel Garcia,2003-09-06,Dominican Republic,IF,2024-02-19,45,45,50,Low,Mexico,Advanced feel for age with present execution and development upside.
+SR-00530,INT-0268,seong-hyun quintero,2006-06-03,Japan,OF,2024-11-16,50,40,50,Low,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00531,INT-0268,Seong-hyun Quintero,2006-06-03,Japan,OF,2023-08-23,25,45,40,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00532,INT-0269,Haruto Estrada,2004-01-23,South Korea,LHP,2023-05-14,40,55,40,Low,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00533,,Haruto Estrada,2004-01-23,South Korea,LHP,2023-04-14,40,60,45,High,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00534,INT-0269,Haruto Estrada,2004-01-23,South Korea,LHP,2023-12-14,40,50,55,High,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00535,INT-0270,Ji-ho Lee,2001-08-10,Japan,RHP,2024-09-24,40,45,65,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00536,INT-0270,Ji-ho Lee,2001-08-10,Japan,RHP,2023-01-05,35,45,55,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00537,INT-0271,Esteban Lopez,2004-11-26,Venezuela,LHP,2025-02-13,40,40,45,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00538,INT-0271,esteban lopez,2004-11-26,Venezuela,LHP,2024-03-26,35,35,45,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00539,INT-0271,Esteban Lopez,2004-11-26,VEN,LHP,2023-02-21,35,35,40,Low,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00540,INT-0272,Santiago Han 3,2003-07-12,Venezuela,OF,2023-06-09,50,35,45,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00541,INT-0272,Santiago Han 3,2003-07-12,Venezuela,OF,2023-10-14,50,40,45,High,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00542,INT-0272,Santiago Han 3,2003-07-12,Venezuela,OF,2023-01-20,55,40,45,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00543,,Adrian Castillo,1999-06-23,JPN,RHP,2025-07-13,30,45,45,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00544,INT-0273,Adrian Castillo,1999-06-23,Japan,RHP,2025-10-18,30,50,40,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00545,INT-0274,Diego Sato,2003-10-05,Japan,IF,2024-12-19,40,45,55,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00546,INT-0274,Diego Sato,2003-10-05,Japan,IF,2025-09-04,50,50,50,High,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00547,INT-0274,Diego Sato,2003-10-05,Japan,IF,2024-10-03,40,45,40,Low,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00548,INT-0275,Diego Garcia,2000-06-02,Mexico,IF,2023-03-19,50,45,55,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00549,INT-0275,Diego Garcia,2000-06-02,Mexico,IF,2025-02-14,55,45,60,High,Mexico,Advanced feel for age with present execution and development upside.
+SR-00550,INT-0276,Isaac Kim,2000-01-04,Venezuela,C,2025-03-21,40,50,40,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00551,INT-0277,Carlos Quintero,2006-08-12,Colombia,IF,2025-02-23,45,55,45,High,Mexico,Advanced feel for age with present execution and development upside.
+SR-00552,INT-0277,Carlos Quintero,2006-08-12,Colombia,IF,2023-11-25,40,55,40,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00553,INT-0277,Carlos Quintero,2006-08-12,Colombia,IF,2025-06-06,50,60,40,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00554,INT-0278,Ji-ho Yamamoto,2000-11-26,South Korea,IF,2025-12-10,45,40,40,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00555,INT-0278,Ji-ho Yamamoto,2000-11-26,Korea,IF,2023-08-27,50,45,45,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00556,INT-0279,Luis Navarro 2,2004-11-22,Venezuela,IF,2023-04-06,50,45,45,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00557,INT-0279,Luis Navarro 2,2004-11-22,Venezuela,IF,2023-08-04,40,35,55,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00558,INT-0280,Seong-hyun Lee,2001-05-25,Mexico,OF,2025-04-05,30,50,40,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00559,INT-0280,Seong-hyun Lee,2001-05-25,Mexico,OF,2025-05-07,30,55,45,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00560,INT-0280,Seong-hyun Lee,2001-05-25,Mexico,OF,2024-07-20,35,50,35,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00561,INT-0281,Rafael Tanaka,2000-05-08,Japan,LHP,2023-10-23,30,45,60,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00562,INT-0281,Rafael Tanaka,2000-05-08,Japan,LHP,2023-08-07,30,40,50,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00563,INT-0282,Isaac Ramirez 2,2006-11-01,Colombia,RHP,2024-05-11,40,45,40,Low,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00564,INT-0283,Daniel Choi,2003-03-16,Colombia,IF,2023-03-14,35,55,45,Low,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00565,,takeshi alvarez,2006-01-20,South Korea,OF,2023-01-11,45,55,55,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00566,INT-0284,Takeshi Alvarez,2006-01-20,South Korea,OF,2024-01-09,40,55,55,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00567,INT-0285,Seong-hyun Park 3,2006-07-20,Mexico,RHP,2024-07-18,45,50,50,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00568,,Andres Lee,2001-11-14,D.R.,OF,2025-12-03,40,50,60,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00569,INT-0286,Andres Lee,2001-11-14,Dominican Republic,OF,2025-02-24,45,50,55,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00570,INT-0286,Andres Lee,2001-11-14,Dominican Republic,OF,2024-06-08,40,40,50,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00571,INT-0287,Jorge Park,2007-12-13,Mexico,IF,2023-09-11,40,35,50,High,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00572,INT-0288,Min-jun Garcia 2,1999-11-05,Dominican Republic,LHP,2025-09-17,50,55,40,High,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00573,INT-0288,Min-jun Garcia 2,1999-11-05,Dominican Republic,LHP,2025-05-04,50,50,40,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00574,INT-0288,Min-jun Garcia 2,1999-11-05,Dominican Republic,LHP,2024-08-09,45,50,40,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00575,INT-0289,Takeshi Alvarez 2,2004-10-08,Dominican Republic,OF,2025-03-20,45,45,55,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00576,INT-0290,Kaito Kim,2002-04-14,South Korea,IF,2023-02-26,40,40,50,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00577,INT-0290,Kaito Kim,2002-04-14,South Korea,IF,2025-10-03,25,40,50,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00578,INT-0290,Kaito Kim,2002-04-14,South Korea,IF,2025-09-24,40,35,45,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00579,INT-0291,Ji-ho Park,2001-07-08,Colombia,OF,2023-07-12,50,35,45,Low,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00580,INT-0292,Ji-ho Garcia 2,2007-01-26,Venezuela,IF,2023-11-24,30,50,45,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00581,INT-0292,Ji-ho Garcia 2,2007-01-26,Venezuela,IF,2025-01-22,25,40,50,Medium,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00582,INT-0293,Kenji Perez 2,2004-08-27,México,RHP,2025-04-16,35,55,65,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00583,INT-0294,Carlos Mendez,2007-10-25,Panama,OF,2025-12-17,45,45,40,Low,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00584,INT-0295,Ji-ho Torres,2007-02-11,Venezuela,RHP,2023-02-16,45,50,45,Low,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00585,INT-0296,Santiago Herrera,2001-04-10,Mexico,RHP,2024-05-06,50,30,50,High,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00586,INT-0297,Diego Dominguez,2004-07-08,Cuba,OF,2023-09-26,40,50,50,High,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00587,INT-0298,mateo yamamoto 2,2006-03-08,Venezuela,OF,2025-09-23,55,55,50,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00588,INT-0299,Esteban Lopez 2,2004-05-04,Venezuela,LHP,2024-07-18,40,50,55,Medium,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00589,INT-0300,rafael nakamura,2007-05-04,Colombia,OF,2025-03-11,30,45,45,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00590,,Rafael Nakamura,2007-05-04,Colombia,OF,2024-02-04,40,50,45,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00591,INT-0300,Rafael Nakamura,2007-05-04,Colombia,OF,2023-06-16,50,50,45,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00592,,Marco Mendez,2001-12-07,CUB,OF,2024-07-26,45,45,45,High,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00593,INT-0302,Esteban Herrera 2,2002-08-11,D.R.,RHP,2023-06-07,35,65,45,High,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00594,INT-0302,esteban herrera 2,2002-08-11,Dominican Republic,RHP,2024-10-23,30,60,50,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00595,,esteban herrera 2,2002-08-11,Dominican Republic,RHP,2025-04-03,35,55,55,Medium,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00596,INT-0303,Gabriel Rojas,2005-06-04,Mexico,LHP,2025-09-23,40,45,45,High,Mexico,Physical projection remains; performance context requires follow-up.
+SR-00597,INT-0303,Gabriel Rojas,2005-06-04,Mexico,LHP,2024-01-07,45,45,45,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00598,INT-0303,Gabriel Rojas,2005-06-04,Mexico,LHP,2023-08-17,40,50,50,Low,Latin America,Advanced feel for age with present execution and development upside.
+SR-00599,INT-0304,Emilio Dominguez,2005-05-13,Panama,IF,2025-05-13,40,30,50,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00600,INT-0305,Carlos Park 2,2005-10-08,Dominican Republic,RHP,2024-10-12,35,60,50,High,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00601,INT-0305,Carlos Park 2,2005-10-08,Dominican Republic,RHP,2023-11-10,40,60,50,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00602,INT-0306,Min-jun Martinez,2007-06-19,Dominican Republic,RHP,2025-04-18,40,50,30,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00603,INT-0306,Min-jun Martinez,2007-06-19,DOM,RHP,2025-08-11,35,50,35,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00604,INT-0306,Min-jun Martinez,2007-06-19,Dominican Republic,RHP,2023-08-12,35,50,40,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00605,INT-0307,hector garcia 3,1999-07-24,Dominican Republic,LHP,2025-12-03,40,45,50,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00606,INT-0307,Hector Garcia 3,1999-07-24,Dominican Republic,LHP,2024-09-05,35,40,50,Medium,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00607,INT-0308,Daichi Vargas 2,1999-09-01,Dominican Republic,RHP,2025-10-09,35,60,25,Medium,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00608,INT-0308,Daichi Vargas 2,1999-09-01,D.R.,RHP,2025-02-19,35,55,35,High,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00609,INT-0308,Daichi Vargas 2,1999-09-01,Dominican Republic,RHP,2025-04-23,35,60,40,Medium,Pacific Rim,Physical projection remains; performance context requires follow-up.
+SR-00610,INT-0309,Isaac Ortega 2,2004-02-22,DOM,IF,2023-05-01,40,45,45,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00611,INT-0310,Andres Herrera,2003-01-03,Mexico,IF,2025-04-24,35,45,60,Low,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00612,,Rafael Kim,2002-09-12,Cuba,OF,2023-02-27,50,50,55,Low,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00613,,Rafael Kim,2002-09-12,CUB,OF,2025-07-19,50,50,45,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00614,INT-0311,Rafael Kim,2002-09-12,Cuba,OF,2024-08-14,50,45,45,High,Pacific Rim,Advanced feel for age with present execution and development upside.
+SR-00615,INT-0312,Min-jun Lee,2004-09-03,Panama,RHP,2023-04-21,45,35,45,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00616,INT-0312,Min-jun Lee,2004-09-03,Panama,RHP,2025-10-20,40,35,50,Medium,Latin America,Physical projection remains; performance context requires follow-up.
+SR-00617,INT-0312,Min-jun Lee,2004-09-03,Panama,RHP,2024-11-20,40,40,50,Medium,Pacific Rim,"Tools are visible, but sample and competition level need validation."
+SR-00618,INT-0313,Marco Nakamura,2004-03-13,South Korea,C,2024-06-08,45,65,40,Medium,Pacific Rim,Shows repeatable movement patterns and competitive intent.
+SR-00619,INT-0313,Marco Nakamura,2004-03-13,South Korea,C,2025-10-21,50,60,45,High,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00620,INT-0313,Marco Nakamura,2004-03-13,South Korea,C,2023-02-08,45,50,45,High,Latin America,Advanced feel for age with present execution and development upside.
+SR-00621,INT-0314,Rafael Garcia,2005-06-05,Dominican Republic,C,2023-01-02,40,45,40,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00622,INT-0314,rafael garcia,2005-06-05,Dominican Republic,C,2025-10-14,35,45,40,Medium,Mexico,Shows repeatable movement patterns and competitive intent.
+SR-00623,,Marco Martinez,2006-01-12,Dominican Republic,RHP,2024-02-24,40,45,55,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00624,INT-0315,Marco Martinez,2006-01-12,Dominican Republic,RHP,2023-05-12,45,50,40,Low,Latin America,"Tools are visible, but sample and competition level need validation."
+SR-00625,,Haruto Park,2003-09-17,South Korea,C,2025-06-23,45,35,30,Low,Caribbean,Physical projection remains; performance context requires follow-up.
+SR-00626,INT-0316,Haruto Park,2003-09-17,South Korea,C,2023-01-20,40,35,35,High,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00627,INT-0316,Haruto Park,2003-09-17,South Korea,C,2024-12-16,45,35,40,Medium,Caribbean,Advanced feel for age with present execution and development upside.
+SR-00628,INT-0317,Ren Quintero 2,2007-05-17,Panama,RHP,2023-05-19,40,50,50,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00629,,Marco Kim,2000-01-08,Venezuela,LHP,2023-11-01,40,60,45,Low,Mexico,Advanced feel for age with present execution and development upside.
+SR-00630,INT-0318,Marco Kim,2000-01-08,Venezuela,LHP,2025-10-27,45,45,50,High,Caribbean,Shows repeatable movement patterns and competitive intent.
+SR-00631,INT-0319,Santiago Quintero 2,2006-02-24,South Korea,IF,2023-05-14,45,50,40,Low,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00632,INT-0319,Santiago Quintero 2,2006-02-24,South Korea,IF,2025-07-23,45,55,45,Medium,Mexico,"Tools are visible, but sample and competition level need validation."
+SR-00633,INT-0319,Santiago Quintero 2,2006-02-24,South Korea,IF,2025-09-20,35,45,55,Medium,Caribbean,"Tools are visible, but sample and competition level need validation."
+SR-00634,INT-0320,Takeshi Kim,2004-01-15,Mexico,IF,2024-04-23,35,40,40,Medium,Latin America,Advanced feel for age with present execution and development upside.
+SR-00635,INT-0320,Takeshi Kim,2004-01-15,Mexico,IF,2025-07-04,40,35,40,High,Latin America,Shows repeatable movement patterns and competitive intent.
+SR-00016,INT-0007,Seong-hyun Benitez,2002-08-04,Dominican Rep.,LHP,2025-01-14,45,50,50,Medium,Pacific Rim,Advanced feel for age with present execution and development upside.

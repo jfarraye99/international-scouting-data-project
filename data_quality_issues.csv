@@ -1,0 +1,86 @@
+source,row_id,rule,severity,detail
+signing,7,duplicate_player_id,error,INT-0008
+signing,320,duplicate_player_id,error,INT-0008
+signing,56,missing_country,error,Country is required
+signing,96,missing_country,error,Country is required
+signing,124,missing_country,error,Country is required
+signing,128,missing_country,error,Country is required
+signing,164,missing_country,error,Country is required
+signing,172,missing_country,error,Country is required
+signing,174,missing_country,error,Country is required
+signing,293,missing_country,error,Country is required
+signing,55,invalid_bonus,error,Signing bonus must be non-negative
+signing,276,invalid_bonus,error,Signing bonus must be non-negative
+performance,176,unmatched_identity,error,No reliable canonical player match
+performance,177,unmatched_identity,error,No reliable canonical player match
+performance,178,unmatched_identity,error,No reliable canonical player match
+performance,179,unmatched_identity,error,No reliable canonical player match
+performance,180,unmatched_identity,error,No reliable canonical player match
+performance,181,unmatched_identity,error,No reliable canonical player match
+performance,182,unmatched_identity,error,No reliable canonical player match
+performance,183,unmatched_identity,error,No reliable canonical player match
+performance,317,unmatched_identity,error,No reliable canonical player match
+performance,318,unmatched_identity,error,No reliable canonical player match
+performance,319,unmatched_identity,error,No reliable canonical player match
+performance,320,unmatched_identity,error,No reliable canonical player match
+performance,407,unmatched_identity,error,No reliable canonical player match
+performance,408,unmatched_identity,error,No reliable canonical player match
+performance,409,unmatched_identity,error,No reliable canonical player match
+performance,410,unmatched_identity,error,No reliable canonical player match
+performance,422,unmatched_identity,error,No reliable canonical player match
+performance,423,unmatched_identity,error,No reliable canonical player match
+performance,424,unmatched_identity,error,No reliable canonical player match
+performance,425,unmatched_identity,error,No reliable canonical player match
+performance,556,unmatched_identity,error,No reliable canonical player match
+performance,557,unmatched_identity,error,No reliable canonical player match
+performance,558,unmatched_identity,error,No reliable canonical player match
+performance,587,unmatched_identity,error,No reliable canonical player match
+performance,588,unmatched_identity,error,No reliable canonical player match
+performance,593,unmatched_identity,error,No reliable canonical player match
+performance,594,unmatched_identity,error,No reliable canonical player match
+performance,595,unmatched_identity,error,No reliable canonical player match
+performance,953,unmatched_identity,error,No reliable canonical player match
+performance,954,unmatched_identity,error,No reliable canonical player match
+performance,955,unmatched_identity,error,No reliable canonical player match
+performance,1015,unmatched_identity,error,No reliable canonical player match
+scout,111,unmatched_identity,error,No reliable canonical player match
+scout,112,unmatched_identity,error,No reliable canonical player match
+scout,113,unmatched_identity,error,No reliable canonical player match
+scout,114,unmatched_identity,error,No reliable canonical player match
+scout,194,unmatched_identity,error,No reliable canonical player match
+scout,195,unmatched_identity,error,No reliable canonical player match
+scout,247,unmatched_identity,error,No reliable canonical player match
+scout,248,unmatched_identity,error,No reliable canonical player match
+scout,249,unmatched_identity,error,No reliable canonical player match
+scout,256,unmatched_identity,error,No reliable canonical player match
+scout,257,unmatched_identity,error,No reliable canonical player match
+scout,258,unmatched_identity,error,No reliable canonical player match
+scout,325,unmatched_identity,error,No reliable canonical player match
+scout,339,unmatched_identity,error,No reliable canonical player match
+scout,340,unmatched_identity,error,No reliable canonical player match
+scout,341,unmatched_identity,error,No reliable canonical player match
+scout,344,unmatched_identity,error,No reliable canonical player match
+scout,345,unmatched_identity,error,No reliable canonical player match
+scout,550,unmatched_identity,error,No reliable canonical player match
+scout,551,unmatched_identity,error,No reliable canonical player match
+scout,552,unmatched_identity,error,No reliable canonical player match
+scout,582,unmatched_identity,error,No reliable canonical player match
+performance,22,duplicate_player_season_league,error,Duplicate grain
+performance,176,duplicate_player_season_league,error,Duplicate grain
+performance,179,duplicate_player_season_league,error,Duplicate grain
+performance,181,duplicate_player_season_league,error,Duplicate grain
+performance,408,duplicate_player_season_league,error,Duplicate grain
+performance,422,duplicate_player_season_league,error,Duplicate grain
+performance,557,duplicate_player_season_league,error,Duplicate grain
+performance,587,duplicate_player_season_league,error,Duplicate grain
+performance,588,duplicate_player_season_league,error,Duplicate grain
+performance,594,duplicate_player_season_league,error,Duplicate grain
+performance,954,duplicate_player_season_league,error,Duplicate grain
+performance,1094,duplicate_player_season_league,error,Duplicate grain
+performance,5,metric_out_of_range,error,One or more metrics failed plausible-range validation
+performance,12,metric_out_of_range,error,One or more metrics failed plausible-range validation
+performance,19,metric_out_of_range,error,One or more metrics failed plausible-range validation
+scout,15,duplicate_report_id,error,SR-00016
+scout,635,duplicate_report_id,error,SR-00016
+scout,3,invalid_scout_grade,error,OFV must be on the 20-80 scale
+scout,10,missing_birth_date,warning,Birth date unavailable in scout source

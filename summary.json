@@ -1,0 +1,9 @@
+{
+  "players": 310,
+  "source_rows": 2052,
+  "issues": 85,
+  "match_rate": 0.9688041594454073,
+  "test_rows": 282.0,
+  "model_mae": 0.3159364185930426,
+  "baseline_mae": 0.4428806140297578
+}
